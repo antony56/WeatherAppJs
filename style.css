@@ -4,3 +4,12 @@
   font-family: 'Poppins', sans-serif;
   box-sizing: border-box;
 }
+body {
+  background: #a32c2c;
+}
+.card {
+  width: 90%;
+  max-width: 470px;
+  background: linear-gradient(135deg, #00feba, #5b548a);
+  color: #fff;
+}
